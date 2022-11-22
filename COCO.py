@@ -1,6 +1,6 @@
-# decoder by cobra linux command __Tools Owner Nahid Afridy
-# https://github.com/NAHID-AFRIDY/DECODER
-# Python 3.11 ___WhatsApp 01923092304
+# decoder by cobra linux command __Tools Owner Haniya Baloch
+# https://github.com/Haniyabaloch0786/DECODER
+# Python 3.11 ___WhatsApp +1 (906) 523-3365
 
 W = '\033[97;1m'
 
@@ -763,10 +763,10 @@ logo = ("""
 \033[1;32m┌───────────────────────────────────────┐
 \033[1;33m│ [✓] AUTHOR   : 🌿 HANIYA BALOCH\033[1;32m[RRSN]              │
 \033[1;34m│ [✓] GITHUB   :\033[1;32mHaniyabaloch0786                       │
-\033[1;35m│ [✓] WHATSAPP :  +1 (906)523-3365    │
+\033[1;35m│ [✓] WHATSAPP :  +1 (906) 523-3365    │
 \033[1;36m│ [✓] POWER HANIYA🌿𝐇𝐀𝐂𝐊𝐄𝐑🌺 : \x1b[1;32mPRO PRONOY\x1b[1;97m           │
 \033[1;32m└───────────────────────────────────────┘  
- \033[41m\033[1;37m𝐓𝐎𝐎𝐋 𝐀𝐃𝐌𝐈𝐍 [HANIYA🌿BALOCH] [BEST FRIENDS KASHI]  [MISS ZOYA]\x1b[0m    """)
+ \033[41m\033[1;37m𝐓𝐎𝐎𝐋 𝐀𝐃𝐌𝐈𝐍 [HANIYA🌿BALOCH] [FRIENDS KASHI]  [MISS ZOYA]\x1b[0m    """)
 
 class Main:
 
